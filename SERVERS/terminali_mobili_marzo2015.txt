@@ -1,0 +1,57 @@
+ultima modifica in data 16-06-2015 ora 15:31 da 127.0.0.4###########
+Dipartimento: scienze e tecnologie
+Corso di laurea:informatica_applicata
+Nome esame:terminali mobili
+Data:20/03/15
+####################################################################
+##########################LISTA ESAMI###############################
+
+
+#######
+Matricola:0124000328
+Nome:Piero.328
+Cognome:Bianco.328
+Voto:25/30.328
+#######
+#######
+Matricola:0124000512
+Nome:piero.512
+Cognome:pallazzp.512
+Voto:24.512
+#######
+#######
+Matricola:0124000329
+Nome:alberto.329
+Cognome:rigu.329
+Voto:21.329
+#######
+#######
+Matricola:0123000321
+Nome:piero.321
+Cognome:babbozzo.321
+Voto:25.321
+#######
+#######
+Matricola:0124000912
+Nome:alberto.912
+Cognome:Rozzi.912
+Voto:3.912
+#######
+#######
+Matricola:0123000318
+Nome:rolando.318
+Cognome:cocchi.318
+Voto:25.318
+#######
+#######
+Matricola:0108000121
+Nome:alfredo.121
+Cognome:perru.121
+Voto:25.121
+#######
+#######
+Matricola:0124000355
+Nome:piero.355
+Cognome:martini.355
+Voto:23.355
+#######

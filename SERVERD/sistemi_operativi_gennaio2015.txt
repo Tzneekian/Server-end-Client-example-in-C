@@ -1,0 +1,29 @@
+##########################INFO APPELLO##############################
+Dipartimento: scienze e tecnologie
+Corso di laurea:informatica
+Nome esame:sistemi operativi
+Data:16/01/15
+####################################################################
+##########################LISTA ESAMI###############################
+
+
+#######
+Matricola:0124000332
+Nome:Vito.332
+Cognome:Corleone.332
+Voto:30/30.332
+#######
+
+#######
+Matricola:0124000456
+Nome:Tony.456
+Cognome:Soprano.456
+Voto:30/30.456
+#######
+#
+#######
+Matricola:0123000329
+Nome:marco.329
+Cognome:di lullo.329
+Voto:23.329
+#######

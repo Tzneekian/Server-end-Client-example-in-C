@@ -1,0 +1,37 @@
+##########################INFO APPELLO##############################
+Dipartimento: scienze e tecnologie
+Corso di laurea:informatica
+Nome esame:calcolo numerico
+Data:04/02/15
+####################################################################
+##########################LISTA ESAMI###############################
+
+
+#######
+Matricola:0124000117
+Nome:Marek.117
+Cognome:Hamsik.117
+Voto:21/30.117
+#######
+
+#######
+Matricola:0124000121
+Nome:Andrea.121
+Cognome:Pirlo.121
+Voto:30/30.121
+#######
+
+#######
+Matricola:0124000456
+Nome:Monica.456
+Cognome:Bellucci.456
+Voto:30/30.456
+#######
+
+#######
+Matricola:0124000381
+Nome:Giuseppe.381
+Cognome:Guarino.381
+Voto:25/30.381
+#######
+#

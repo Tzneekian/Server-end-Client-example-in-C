@@ -1,0 +1,61 @@
+##########################INFO APPELLO##############################
+Dipartimento: scienze e tecnologie
+Corso di laurea:informatica
+Nome esame:matematica 2
+Data:05/03/15
+####################################################################
+##########################LISTA ESAMI###############################
+
+
+#######
+Matricola:0124000279
+Nome:Antonello.279
+Cognome:Venditti.279
+Voto:18/30.279
+#######
+
+#######
+Matricola:0124000442
+Nome:Sergio.442
+Cognome:Mattarella.442
+Voto:30/30.442
+#######
+
+#######
+Matricola:0124000228
+Nome:Dries.228
+Cognome:Mertens.228
+Voto:21/30.228
+#######
+
+#######
+Matricola:0124000587
+Nome:Giuseppe.587
+Cognome:Garibaldi.587
+Voto:25/30.587
+#######
+#
+#######
+Matricola:0102000111
+Nome:paolo.111
+Cognome:ferro.111
+Voto:23.111
+#######
+#######
+Matricola:0124000999
+Nome:alberto.999
+Cognome:frote.999
+Voto:23.999
+#######
+#######
+Matricola:0124000320
+Nome:giacomo.320
+Cognome:iancelli.320
+Voto:26.320
+#######
+#######
+Matricola:0101000123
+Nome:elena.123
+Cognome:francino.123
+Voto:26.123
+#######
